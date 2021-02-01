@@ -1,5 +1,5 @@
-# Projects
-
+# Yandex praktikum Projects
+### Below you can find projects that I completed 
 
 | Project | Description | 
 | :-------| :-----------|
